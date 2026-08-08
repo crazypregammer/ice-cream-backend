@@ -1,0 +1,94 @@
+{
+  "icecreams": [
+    {
+      "id": 1,
+      "img": "https://www.clubhouse.ca/-/media/project/oneweb/clubhouseca/recipes/classic_vanilla_icecream_800.jpg?rev=8f09c7f099b94a0e87b5e227ff9fed03&vd=20250505T192023Z&extension=webp&hash=18C8634EBE40E8FDD012A2615148ABCE",
+      "name": "Vanilla Classic",
+      "brand": "SweetCream Co.",
+      "flavor": "Vanilla",
+      "description": "Smooth and creamy vanilla made with real Madagascar beans.",
+      "price": 3.5,
+      "stock": 42
+    },
+    {
+      "id": 2,
+      "img": "https://vintagekitchennotes.com/wp-content/uploads/2024/09/Bowl-of-chocolate-ice-cream-500x500.jpg",
+      "name": "Chocolate Overload",
+      "brand": "ChocoDream",
+      "flavor": "Chocolate",
+      "description": "Rich dark chocolate ice cream with chocolate chunks.",
+      "price": 4,
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "img": "https://www.chewoutloud.com/wp-content/uploads/2024/04/Strawberry-Ice-Cream-in-Bowl.jpg",
+      "name": "Strawberry Bliss",
+      "brand": "BerryFresh",
+      "flavor": "Strawberry",
+      "description": "Fresh strawberry ice cream with real fruit pieces.",
+      "price": 3.8,
+      "stock": 25
+    },
+    {
+      "id": 4,
+      "img": "https://bakerstable.net/wp-content/uploads/2023/03/no-cook-mint-chocolate-chip-ice-cream-15-e1678315622631.jpg",
+      "name": "Minty Crunch",
+      "brand": "CoolBite",
+      "flavor": "Mint Chocolate Chip",
+      "description": "Refreshing mint ice cream with crunchy chocolate chips.",
+      "price": 4.2,
+      "stock": 18
+    },
+    {
+      "id": 5,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWQrBuicKMkdUkGPyf65hAmcvyaw5DURRdJ7OHl-Q7VJ3nUynmBhtoHPE&s=10",
+      "name": "Coconut Paradise",
+      "brand": "TropiCream",
+      "flavor": "Coconut",
+      "description": "Creamy coconut ice cream made with natural coconut milk.",
+      "price": 4.5,
+      "stock": 20
+    },
+    {
+      "id": 6,
+      "img": "https://thekitchenmccabe.com/wp-content/uploads/2014/07/Salted-Caramel-Ice-Cream-3.jpg",
+      "name": "Salted Caramel Swirl",
+      "brand": "CaramelCraft",
+      "flavor": "Salted Caramel",
+      "description": "Sweet caramel ice cream with salted caramel ribbons.",
+      "price": 4.3,
+      "stock": 15
+    },
+    {
+      "id": 7,
+      "img": "https://www.allrecipes.com/thmb/totJUia-TjrmF6VnYGHOM5hVjqQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/241759-matcha-green-tea-ice-cream-VAT-003-4x3-01closeup-692d327cc2174abb84b440568f61e29a.jpg",
+      "name": "Matcha Harmony",
+      "brand": "ZenCream",
+      "flavor": "Matcha",
+      "description": "Japanese matcha ice cream with earthy and sweet notes.",
+      "price": 4.7,
+      "stock": 12
+    },
+    {
+      "id": 8,
+      "img": "https://www.kingarthurbaking.com/sites/default/files/2022-05/cookies-and-cream-ice-cream_0422.jpg",
+      "name": "Cookies & Cream",
+      "brand": "CrunchyCream",
+      "flavor": "Cookies and Cream",
+      "description": "Vanilla ice cream loaded with chocolate cookie chunks.",
+      "price": 4,
+      "stock": 28
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4cHq7L5T0_U9TeRJByWrVDyIWTk94P2qyG4fshDzTOg&s=10",
+      "name": "Ice cream",
+      "brand": "Vanilla",
+      "flavor": "Chocolate",
+      "description": "Good ice cream",
+      "price": "32",
+      "stock": "1",
+      "id": 9
+    }
+  ]
+}
