@@ -79,16 +79,6 @@
       "description": "Vanilla ice cream loaded with chocolate cookie chunks.",
       "price": 4,
       "stock": 28
-    },
-    {
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4cHq7L5T0_U9TeRJByWrVDyIWTk94P2qyG4fshDzTOg&s=10",
-      "name": "Ice cream",
-      "brand": "Vanilla",
-      "flavor": "Chocolate",
-      "description": "Good ice cream",
-      "price": "32",
-      "stock": "1",
-      "id": 9
     }
   ]
 }
