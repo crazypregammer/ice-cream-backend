@@ -82,7 +82,7 @@
     },
     {
       "id": 9,
-      "Img": "https://www.bakeandbacon.com/wp-content/uploads/2024/04/featured-image-oreo-ice-cream.jpg",
+      "img": "https://www.bakeandbacon.com/wp-content/uploads/2024/04/featured-image-oreo-ice-cream.jpg",
       "name": "Oreo Deluxe",
       "brand": "CookieKing",
       "flavor": "Oreo",
@@ -92,7 +92,7 @@
     },
     {
       "id": 10,
-      "Img": "https://www.insidetherustickitchen.com/wp-content/uploads/2020/06/Stracciatella-Gelato-square-Inside-the-Rustic-Kitchen.jpg",
+      "img": "https://www.insidetherustickitchen.com/wp-content/uploads/2020/06/Stracciatella-Gelato-square-Inside-the-Rustic-Kitchen.jpg",
       "name": "Stracciatella",
       "brand": "BellaGelato",
       "flavor": "Stracciatella",
