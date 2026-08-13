@@ -1,14 +1,14 @@
 {
   "icecreams": [
     {
-      "id": 1,
       "img": "https://www.clubhouse.ca/-/media/project/oneweb/clubhouseca/recipes/classic_vanilla_icecream_800.jpg?rev=8f09c7f099b94a0e87b5e227ff9fed03&vd=20250505T192023Z&extension=webp&hash=18C8634EBE40E8FDD012A2615148ABCE",
       "name": "Vanilla Classic",
       "brand": "SweetCream Co.",
       "flavor": "Vanilla",
       "description": "Smooth and creamy vanilla made with real Madagascar beans.",
       "price": 3.5,
-      "stock": 42
+      "stock": 42,
+      "id": 1
     },
     {
       "id": 2,
@@ -79,6 +79,126 @@
       "description": "Vanilla ice cream loaded with chocolate cookie chunks.",
       "price": 4,
       "stock": 28
+    },
+    {
+      "id": 9,
+      "Img": "https://www.bakeandbacon.com/wp-content/uploads/2024/04/featured-image-oreo-ice-cream.jpg",
+      "name": "Oreo Deluxe",
+      "brand": "CookieKing",
+      "flavor": "Oreo",
+      "description": "Helado cremoso con trozos grandes de Oreo.",
+      "price": 4.6,
+      "stock": 22
+    },
+    {
+      "id": 10,
+      "Img": "https://www.insidetherustickitchen.com/wp-content/uploads/2020/06/Stracciatella-Gelato-square-Inside-the-Rustic-Kitchen.jpg",
+      "name": "Stracciatella",
+      "brand": "BellaGelato",
+      "flavor": "Stracciatella",
+      "description": "Vainilla italiana con finas láminas de chocolate.",
+      "price": 4.8,
+      "stock": 18
+    },
+    {
+      "id": 11,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvw25o637s-t_0pEuqDn66PsKr8TZ7_xRmD4oPWNJJbXQrPbUMltBVcps&s=10",
+      "name": "Pistachio Dream",
+      "brand": "NuttyCream",
+      "flavor": "Pistacho",
+      "description": "Helado de pistacho con frutos secos tostados.",
+      "price": 5.0,
+      "stock": 14
+    },
+    {
+      "id": 12,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Banana_split_1.jpg/1280px-Banana_split_1.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "name": "Banana Split",
+      "brand": "FruitJoy",
+      "flavor": "Banana",
+      "description": "Banana dulce con chocolate y nueces.",
+      "price": 4.2,
+      "stock": 16
+    },
+    {
+      "id": 13,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYTrlU0cYUCjGsI-kseQ018m43of2zklAf342FijbefAxHGnVh7ALYsnHl&s=10",
+      "name": "Mango Tropical",
+      "brand": "TropiFresh",
+      "flavor": "Mango",
+      "description": "Mango maduro con textura suave y refrescante.",
+      "price": 4.4,
+      "stock": 20
+    },
+    {
+      "id": 14,
+      "img": "https://www.seasonsandsuppers.ca/wp-content/uploads/2016/02/lemon-icecream1200.jpg",
+      "name": "Lemon Sorbet",
+      "brand": "CitrusCool",
+      "flavor": "Limón",
+      "description": "Sorbete de limón natural, súper refrescante.",
+      "price": 3.9,
+      "stock": 30
+    },
+    {
+      "id": 15,
+      "img": "https://hips.hearstapps.com/vidthumb/images/delish-blueberry-no-churn-ice-cream-still002-1530884427.jpg?crop=0.526xw:0.934xh;0.220xw,0.0199xh&resize=1200:*",
+      "name": "Blueberry Burst",
+      "brand": "BerryFresh",
+      "flavor": "Arándanos",
+      "description": "Helado de arándanos con fruta real.",
+      "price": 4.6,
+      "stock": 17
+    },
+    {
+      "id": 16,
+      "img": "https://www.eis-perfecto.de/wp-content/uploads/2024/03/Weise-schokoeis-trifft-Haselnuss-848x477.jpg",
+      "name": "Hazelnut Cream",
+      "brand": "NuttyCream",
+      "flavor": "Avellana",
+      "description": "Helado de avellana con crema suave.",
+      "price": 4.9,
+      "stock": 10
+    },
+    {
+      "id": 17,
+      "img": "https://icecreamfromscratch.com/wp-content/uploads/2023/12/Tiramisu-Ice-Cream-1.2-720x720.jpg",
+      "name": "Tiramisu Gelato",
+      "brand": "BellaGelato",
+      "flavor": "Tiramisú",
+      "description": "Café, cacao y bizcocho en un helado italiano.",
+      "price": 5.2,
+      "stock": 8
+    },
+    {
+      "id": 18,
+      "img": "https://ohsweetbasil.com/wp-content/uploads/peanut-butter-cookie-ice-cream-recipe-12.jpg",
+      "name": "Peanut Butter Swirl",
+      "brand": "NuttyCream",
+      "flavor": "Cacahuete",
+      "description": "Helado de crema de cacahuete con caramelo.",
+      "price": 4.7,
+      "stock": 13
+    },
+    {
+      "id": 19,
+      "img": "https://www.keep-calm-and-eat-ice-cream.com/wp-content/uploads/2023/09/Rainbow-ice-cream-hero-10.jpg",
+      "name": "Rainbow Sherbet",
+      "brand": "ColorPop",
+      "flavor": "Multifruta",
+      "description": "Sorbete colorido de naranja, frambuesa y lima.",
+      "price": 4.1,
+      "stock": 26
+    },
+    {
+      "id": 20,
+      "img": "https://www.thehungrybites.com/wp-content/uploads/2023/05/easy-coffee-ice-cream-featured.jpg",
+      "name": "Coffee Lovers",
+      "brand": "CaféCream",
+      "flavor": "Café",
+      "description": "Helado intenso de café con notas de espresso.",
+      "price": 4.5,
+      "stock": 19
     }
   ]
 }
