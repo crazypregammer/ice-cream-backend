@@ -86,7 +86,7 @@
       "name": "Oreo Deluxe",
       "brand": "CookieKing",
       "flavor": "Oreo",
-      "description": "Helado cremoso con trozos grandes de Oreo.",
+      "description": "Creamy ice cream with large Oreo cookie chunks.",
       "price": 4.6,
       "stock": 22
     },
@@ -96,7 +96,7 @@
       "name": "Stracciatella",
       "brand": "BellaGelato",
       "flavor": "Stracciatella",
-      "description": "Vainilla italiana con finas láminas de chocolate.",
+      "description": "Italian vanilla gelato with fine chocolate shavings.",
       "price": 4.8,
       "stock": 18
     },
@@ -105,8 +105,8 @@
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvw25o637s-t_0pEuqDn66PsKr8TZ7_xRmD4oPWNJJbXQrPbUMltBVcps&s=10",
       "name": "Pistachio Dream",
       "brand": "NuttyCream",
-      "flavor": "Pistacho",
-      "description": "Helado de pistacho con frutos secos tostados.",
+      "flavor": "Pistachio",
+      "description": "Pistachio ice cream with toasted nuts.",
       "price": 5.0,
       "stock": 14
     },
@@ -116,7 +116,7 @@
       "name": "Banana Split",
       "brand": "FruitJoy",
       "flavor": "Banana",
-      "description": "Banana dulce con chocolate y nueces.",
+      "description": "Sweet banana ice cream with chocolate and nuts.",
       "price": 4.2,
       "stock": 16
     },
@@ -126,7 +126,7 @@
       "name": "Mango Tropical",
       "brand": "TropiFresh",
       "flavor": "Mango",
-      "description": "Mango maduro con textura suave y refrescante.",
+      "description": "Ripe mango ice cream with a smooth and refreshing texture.",
       "price": 4.4,
       "stock": 20
     },
@@ -135,8 +135,8 @@
       "img": "https://www.seasonsandsuppers.ca/wp-content/uploads/2016/02/lemon-icecream1200.jpg",
       "name": "Lemon Sorbet",
       "brand": "CitrusCool",
-      "flavor": "Limón",
-      "description": "Sorbete de limón natural, súper refrescante.",
+      "flavor": "Lemon",
+      "description": "Natural lemon sorbet, super refreshing.",
       "price": 3.9,
       "stock": 30
     },
@@ -145,8 +145,8 @@
       "img": "https://hips.hearstapps.com/vidthumb/images/delish-blueberry-no-churn-ice-cream-still002-1530884427.jpg?crop=0.526xw:0.934xh;0.220xw,0.0199xh&resize=1200:*",
       "name": "Blueberry Burst",
       "brand": "BerryFresh",
-      "flavor": "Arándanos",
-      "description": "Helado de arándanos con fruta real.",
+      "flavor": "Blueberry",
+      "description": "Blueberry ice cream made with real fruit.",
       "price": 4.6,
       "stock": 17
     },
@@ -155,8 +155,8 @@
       "img": "https://www.eis-perfecto.de/wp-content/uploads/2024/03/Weise-schokoeis-trifft-Haselnuss-848x477.jpg",
       "name": "Hazelnut Cream",
       "brand": "NuttyCream",
-      "flavor": "Avellana",
-      "description": "Helado de avellana con crema suave.",
+      "flavor": "Hazelnut",
+      "description": "Smooth hazelnut ice cream with creamy texture.",
       "price": 4.9,
       "stock": 10
     },
@@ -165,8 +165,8 @@
       "img": "https://icecreamfromscratch.com/wp-content/uploads/2023/12/Tiramisu-Ice-Cream-1.2-720x720.jpg",
       "name": "Tiramisu Gelato",
       "brand": "BellaGelato",
-      "flavor": "Tiramisú",
-      "description": "Café, cacao y bizcocho en un helado italiano.",
+      "flavor": "Tiramisu",
+      "description": "Coffee, cocoa, and sponge cake in an Italian-style gelato.",
       "price": 5.2,
       "stock": 8
     },
@@ -175,8 +175,8 @@
       "img": "https://ohsweetbasil.com/wp-content/uploads/peanut-butter-cookie-ice-cream-recipe-12.jpg",
       "name": "Peanut Butter Swirl",
       "brand": "NuttyCream",
-      "flavor": "Cacahuete",
-      "description": "Helado de crema de cacahuete con caramelo.",
+      "flavor": "Peanut Butter",
+      "description": "Peanut butter ice cream with caramel swirls.",
       "price": 4.7,
       "stock": 13
     },
@@ -185,8 +185,8 @@
       "img": "https://www.keep-calm-and-eat-ice-cream.com/wp-content/uploads/2023/09/Rainbow-ice-cream-hero-10.jpg",
       "name": "Rainbow Sherbet",
       "brand": "ColorPop",
-      "flavor": "Multifruta",
-      "description": "Sorbete colorido de naranja, frambuesa y lima.",
+      "flavor": "Multifruit",
+      "description": "Colorful sherbet made with orange, raspberry, and lime.",
       "price": 4.1,
       "stock": 26
     },
@@ -195,8 +195,8 @@
       "img": "https://www.thehungrybites.com/wp-content/uploads/2023/05/easy-coffee-ice-cream-featured.jpg",
       "name": "Coffee Lovers",
       "brand": "CaféCream",
-      "flavor": "Café",
-      "description": "Helado intenso de café con notas de espresso.",
+      "flavor": "Coffee",
+      "description": "Intense coffee ice cream with espresso notes.",
       "price": 4.5,
       "stock": 19
     }
