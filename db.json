@@ -1,7 +1,7 @@
 {
   "icecreams": [
     {
-      "img": "https://www.clubhouse.ca/-/media/project/oneweb/clubhouseca/recipes/classic_vanilla_icecream_800.jpg?rev=8f09c7f099b94a0e87b5e227ff9fed03&vd=20250505T192023Z&extension=webp&hash=18C8634EBE40E8FDD012A2615148ABCE",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787072647/classic_vanilla_icecream_800.webp",
       "name": "Vanilla Classic",
       "brand": "SweetCream Co.",
       "flavor": "Vanilla",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "img": "https://vintagekitchennotes.com/wp-content/uploads/2024/09/Bowl-of-chocolate-ice-cream-500x500.jpg",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787076388/Bowl-of-chocolate-ice-cream-500x500.jpg",
       "name": "Chocolate Overload",
       "brand": "ChocoDream",
       "flavor": "Chocolate",
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "img": "https://www.chewoutloud.com/wp-content/uploads/2024/04/Strawberry-Ice-Cream-in-Bowl.jpg",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787076426/Strawberry-Ice-Cream-in-Bowl.jpg",
       "name": "Strawberry Bliss",
       "brand": "BerryFresh",
       "flavor": "Strawberry",
@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "img": "https://bakerstable.net/wp-content/uploads/2023/03/no-cook-mint-chocolate-chip-ice-cream-15-e1678315622631.jpg",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787076456/no-cook-mint-chocolate-chip-ice-cream-15-e1678315622631.jpg",
       "name": "Minty Crunch",
       "brand": "CoolBite",
       "flavor": "Mint Chocolate Chip",
@@ -42,7 +42,7 @@
     },
     {
       "id": 5,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWQrBuicKMkdUkGPyf65hAmcvyaw5DURRdJ7OHl-Q7VJ3nUynmBhtoHPE&s=10",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787076990/20250117152908-1x1-coconut-sorbet-process-1.jpg",
       "name": "Coconut Paradise",
       "brand": "TropiCream",
       "flavor": "Coconut",
@@ -52,7 +52,7 @@
     },
     {
       "id": 6,
-      "img": "https://thekitchenmccabe.com/wp-content/uploads/2014/07/Salted-Caramel-Ice-Cream-3.jpg",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787076493/Salted-Caramel-Ice-Cream-3.jpg",
       "name": "Salted Caramel Swirl",
       "brand": "CaramelCraft",
       "flavor": "Salted Caramel",
@@ -62,7 +62,7 @@
     },
     {
       "id": 7,
-      "img": "https://www.allrecipes.com/thmb/totJUia-TjrmF6VnYGHOM5hVjqQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/241759-matcha-green-tea-ice-cream-VAT-003-4x3-01closeup-692d327cc2174abb84b440568f61e29a.jpg",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787076515/241759-matcha-green-tea-ice-cream-VAT-003-4x3-01closeup-692d327cc2174abb84b440568f61e29a.jpg",
       "name": "Matcha Harmony",
       "brand": "ZenCream",
       "flavor": "Matcha",
@@ -72,7 +72,7 @@
     },
     {
       "id": 8,
-      "img": "https://www.kingarthurbaking.com/sites/default/files/2022-05/cookies-and-cream-ice-cream_0422.jpg",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787076624/Cookies_and_Cream_Ice_Cream_012-79a208c539c64f14a50197ddc63987ef.jpg",
       "name": "Cookies & Cream",
       "brand": "CrunchyCream",
       "flavor": "Cookies and Cream",
@@ -82,7 +82,7 @@
     },
     {
       "id": 9,
-      "img": "https://www.bakeandbacon.com/wp-content/uploads/2024/04/featured-image-oreo-ice-cream.jpg",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787076533/cookies-and-cream-ice-cream_0422.jpg",
       "name": "Oreo Deluxe",
       "brand": "CookieKing",
       "flavor": "Oreo",
@@ -92,7 +92,7 @@
     },
     {
       "id": 10,
-      "img": "https://www.insidetherustickitchen.com/wp-content/uploads/2020/06/Stracciatella-Gelato-square-Inside-the-Rustic-Kitchen.jpg",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787076663/Stracciatella-Gelato-square-Inside-the-Rustic-Kitchen.jpg",
       "name": "Stracciatella",
       "brand": "BellaGelato",
       "flavor": "Stracciatella",
@@ -102,17 +102,17 @@
     },
     {
       "id": 11,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvw25o637s-t_0pEuqDn66PsKr8TZ7_xRmD4oPWNJJbXQrPbUMltBVcps&s=10",
+      "img": "https://langschocolates.com/wp-content/uploads/2025/03/Keto-Pistachio-ice-cream.png",
       "name": "Pistachio Dream",
       "brand": "NuttyCream",
       "flavor": "Pistachio",
       "description": "Pistachio ice cream with toasted nuts.",
-      "price": 5.0,
+      "price": 5,
       "stock": 14
     },
     {
       "id": 12,
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Banana_split_1.jpg/1280px-Banana_split_1.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787076756/1280px-Banana_split_1.jpg.jpg",
       "name": "Banana Split",
       "brand": "FruitJoy",
       "flavor": "Banana",
@@ -122,7 +122,7 @@
     },
     {
       "id": 13,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYTrlU0cYUCjGsI-kseQ018m43of2zklAf342FijbefAxHGnVh7ALYsnHl&s=10",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787076776/images.jpg",
       "name": "Mango Tropical",
       "brand": "TropiFresh",
       "flavor": "Mango",
@@ -132,7 +132,7 @@
     },
     {
       "id": 14,
-      "img": "https://www.seasonsandsuppers.ca/wp-content/uploads/2016/02/lemon-icecream1200.jpg",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787076836/lemon-icecream1200.jpg",
       "name": "Lemon Sorbet",
       "brand": "CitrusCool",
       "flavor": "Lemon",
@@ -142,7 +142,7 @@
     },
     {
       "id": 15,
-      "img": "https://hips.hearstapps.com/vidthumb/images/delish-blueberry-no-churn-ice-cream-still002-1530884427.jpg?crop=0.526xw:0.934xh;0.220xw,0.0199xh&resize=1200:*",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787076853/delish-blueberry-no-churn-ice-cream-still002-1530884427.jpg.jpg",
       "name": "Blueberry Burst",
       "brand": "BerryFresh",
       "flavor": "Blueberry",
@@ -152,7 +152,7 @@
     },
     {
       "id": 16,
-      "img": "https://www.eis-perfecto.de/wp-content/uploads/2024/03/Weise-schokoeis-trifft-Haselnuss-848x477.jpg",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787076867/Weise-schokoeis-trifft-Haselnuss-848x477.jpg",
       "name": "Hazelnut Cream",
       "brand": "NuttyCream",
       "flavor": "Hazelnut",
@@ -162,7 +162,7 @@
     },
     {
       "id": 17,
-      "img": "https://icecreamfromscratch.com/wp-content/uploads/2023/12/Tiramisu-Ice-Cream-1.2-720x720.jpg",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787076881/Tiramisu-Ice-Cream-1.2-720x720.jpg",
       "name": "Tiramisu Gelato",
       "brand": "BellaGelato",
       "flavor": "Tiramisu",
@@ -172,7 +172,7 @@
     },
     {
       "id": 18,
-      "img": "https://ohsweetbasil.com/wp-content/uploads/peanut-butter-cookie-ice-cream-recipe-12.jpg",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787076894/peanut-butter-cookie-ice-cream-recipe-12.jpg",
       "name": "Peanut Butter Swirl",
       "brand": "NuttyCream",
       "flavor": "Peanut Butter",
@@ -182,7 +182,7 @@
     },
     {
       "id": 19,
-      "img": "https://www.keep-calm-and-eat-ice-cream.com/wp-content/uploads/2023/09/Rainbow-ice-cream-hero-10.jpg",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787076909/Rainbow-ice-cream-hero-10.jpg",
       "name": "Rainbow Sherbet",
       "brand": "ColorPop",
       "flavor": "Multifruit",
@@ -192,7 +192,7 @@
     },
     {
       "id": 20,
-      "img": "https://www.thehungrybites.com/wp-content/uploads/2023/05/easy-coffee-ice-cream-featured.jpg",
+      "img": "https://res.cloudinary.com/youyuszd/image/upload/v1787076923/easy-coffee-ice-cream-featured.jpg",
       "name": "Coffee Lovers",
       "brand": "CaféCream",
       "flavor": "Coffee",
